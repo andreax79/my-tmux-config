@@ -2,7 +2,7 @@ Installation
 ------------
 
     git clone https://github.com/andreax79/my-tmux-config.git ~/.tmux/
-    ~/.tmux/install.shmkdir ~/.vim
+    ln -s ~/.tmux/tmux.conf .tmux.conf
 
 Start tmux
 
